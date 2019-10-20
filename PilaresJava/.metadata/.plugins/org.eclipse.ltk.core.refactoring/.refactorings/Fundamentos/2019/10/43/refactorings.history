@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Variables.HolaMundo&apos; to &apos;Variables&apos;&#x0D;&#x0A;- Original project: &apos;HolaMundo&apos;&#x0D;&#x0A;- Original element: &apos;HolaMundo/src/main/java/Variables.HolaMundo&apos;&#x0D;&#x0A;- Renamed element: &apos;HolaMundo/src/main/java/Variables&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Variables.HolaMundo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;Variables.HolaMundo" name="Variables" qualified="false" references="true" stamp="1571539153986" textual="false" version="1.0"/>
+</session>
