@@ -26,6 +26,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Fundamentos"/>
 			<item value="Fundamentos.Variables"/>
 			<item value="Variables.HolaMundo"/>
 			<item value="Seccion3.Variables"/>
