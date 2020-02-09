@@ -26,6 +26,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Fundamentos.LaboratorioFinal.gm.mundopc"/>
+			<item value="Fundamentos.gm.mundopc"/>
 			<item value="Fundamentos"/>
 			<item value="Fundamentos.Variables"/>
 			<item value="Variables.HolaMundo"/>
@@ -38,6 +40,8 @@
 			<item value="Seccion3"/>
 		</list>
 		<list key="artifactId">
+			<item value="LaboratorioFinal"/>
+			<item value="Computadora"/>
 			<item value="Variables"/>
 			<item value="HolaMundo"/>
 			<item value="HoaMundo"/>
